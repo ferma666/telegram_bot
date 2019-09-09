@@ -16,7 +16,6 @@ dispatcher = updater.dispatcher
 
 
 
-
 def start(update, context):
     context.bot.send_message(chat_id=update.message.chat_id, text="GOLD ON MY WIRST FUCK THE POLICE")
 
